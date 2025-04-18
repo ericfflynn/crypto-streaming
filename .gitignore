@@ -1,0 +1,6 @@
+phase-1/coinbase.db
+*.log
+*.tmp
+node_modules/
+.env
+phase-2

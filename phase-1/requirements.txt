@@ -1,0 +1,5 @@
+# Kafka client for Python
+confluent-kafka==2.3.0
+
+# WebSocket client for Coinbase stream
+websockets==12.0
