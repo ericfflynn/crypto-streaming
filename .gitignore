@@ -4,3 +4,4 @@ phase-1/coinbase.db
 node_modules/
 .env
 phase-2
+notebook.ipynb
